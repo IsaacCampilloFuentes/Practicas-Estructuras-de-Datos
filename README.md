@@ -21,4 +21,4 @@
 - C
 - Git
 
-> Nota: algunas prácticas y funciones están incompletas, ya que el repositorio refleja el trabajo realizado durante el aprendizaje de la asignatura.
+> Nota: algunas prácticas y funciones están incompletas o en proceso de mejora, ya que el objetivo principal del repositorio es reflejar el aprendizaje y la implementación de estructuras de datos y algoritmos.
