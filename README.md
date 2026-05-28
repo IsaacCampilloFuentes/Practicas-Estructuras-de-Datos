@@ -20,3 +20,5 @@
 ## Tecnologías empleadas
 - C
 - Git
+
+> Nota: algunas prácticas y funciones están incompletas, ya que el repositorio refleja el trabajo realizado durante el aprendizaje de la asignatura.
